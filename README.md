@@ -6,4 +6,4 @@ Ce projet simule une appli de réservation d'espace de coworking.
 
 - [Notion](docs/notion.md)
 - [Trello](docs/trello.md)
-- Maquette Figma : `docs/maquette.png`
+- ![Maquette de l'application ResaSpace](docs/maquette.png)
