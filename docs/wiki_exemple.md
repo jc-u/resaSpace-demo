@@ -43,8 +43,8 @@ Ce projet simule une application de réservation de postes dans un espace de cow
 ## 🔗 Liens utiles
 
 - 🗃️ Trello : https://trello.com/b/izXyRdBj/resaspace-demo
-- 📄 Notion : [à coller ici](https://www.notion.so/ResaSpace-Cahier-des-charges-suivi-22c165f9cc3c8051aea8e7f9bdef6483?source=copy_link)
-- 🎨 Figma :
+- 📄 Notion : https://www.notion.so/ResaSpace-Cahier-des-charges-suivi-22c165f9cc3c8051aea8e7f9bdef6483?source=copy_link
+- 🎨 Figma : https://www.figma.com/design/eZm0YEdyQ4XJoDQ7U89ZjV/Online-Appointment-Booking-UI--Community-?node-id=32-1965&m=dev&t=tG8Vryo99gKh061T-1
 - 🗃️ GitHub Repo : https://github.com/jc-u/resaSpace-demo
 
 ---
